@@ -1,11 +1,1 @@
-<svg viewBox="0 0 9 12" version="1.1" 
-    xmlns="http://www.w3.org/2000/svg" p-id="3506" 
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(-11.000000, -9.000000)" fill="currentColor" fill-rule="nonzero">
-            <g transform="translate(11.000000, 9.000000)">
-                <polygon transform="translate(4.294118, 6.000000) rotate(-270.000000) translate(-4.294118, -6.000000) " points="8.76684493 2 4.29411765 6.79999999 -0.178609633 2 -1.70588235 3.6 4.29411765 10 10.2941176 3.6"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" p-id="3506" version="1.1" viewBox="0 0 9 12"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g fill="currentColor" fill-rule="nonzero"><g transform="translate(-11.000000, -9.000000) translate(11.000000, 9.000000)"><polygon points="8.767 2 4.294 6.8 -.179 2 -1.706 3.6 4.294 10 10.294 3.6" transform="translate(4.294118, 6.000000) rotate(-270.000000) translate(-4.294118, -6.000000)"/></g></g></g></svg>
